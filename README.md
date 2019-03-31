@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+name=input("enter your name please\n")
+print("hello",name)
+
